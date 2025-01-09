@@ -8,9 +8,12 @@
 struct ListNode* swapNodes(struct ListNode* head, int k) {
     struct ListNode* sp = head;
     struct ListNode* fp = head;
-    for(int i=0;i<k-1;i++){
+
+    for(int i=1;i<k;i++)
+    {
         fp=fp->next;
     }
+
     struct ListNode* n1 = fp;
     while(fp->next!=NULL){
         fp = fp->next;
