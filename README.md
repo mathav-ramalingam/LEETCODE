@@ -35,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
