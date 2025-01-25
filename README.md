@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
