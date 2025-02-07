@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
