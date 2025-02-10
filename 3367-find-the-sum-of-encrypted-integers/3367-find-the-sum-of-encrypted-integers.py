@@ -7,3 +7,7 @@ class Solution:
             sum = sum + encrypted_value
         
         return sum
+        
+
+            # single line code 
+        # return sum(int(max(list(str(n)))*len(str(n))) for n in nums)
