@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0263-ugly-number) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
