@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0263-ugly-number) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
