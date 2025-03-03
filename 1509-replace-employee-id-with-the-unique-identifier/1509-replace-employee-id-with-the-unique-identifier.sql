@@ -1,0 +1,1 @@
+select EmployeeUNI.unique_id , Employees.name from Employees LEFT OUTER JOIN EmployeeUNI on EmployeeUNI.id = Employees.id
