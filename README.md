@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
