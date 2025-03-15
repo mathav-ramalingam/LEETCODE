@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
