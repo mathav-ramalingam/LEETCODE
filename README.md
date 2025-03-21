@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
