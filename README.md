@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2812-find-the-maximum-achievable-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
