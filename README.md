@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2812-find-the-maximum-achievable-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
