@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0838-design-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
