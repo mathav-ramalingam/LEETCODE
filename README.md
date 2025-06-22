@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0838-design-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0148-sort-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
