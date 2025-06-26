@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2812-find-the-maximum-achievable-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
 | ------- |
