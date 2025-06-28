@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Counting
+|  |
+| ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
