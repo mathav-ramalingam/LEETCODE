@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
+| [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
