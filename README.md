@@ -285,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1767-design-front-middle-back-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1767-design-front-middle-back-queue) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
