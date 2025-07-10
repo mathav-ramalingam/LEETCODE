@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2491-smallest-even-multiple) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Matrix
 |  |
 | ------- |
