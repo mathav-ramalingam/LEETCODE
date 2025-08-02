@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Matrix
