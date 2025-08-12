@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0148-sort-list) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
 ## Quickselect
 |  |
 | ------- |
