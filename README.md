@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0264-ugly-number-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0164-maximum-gap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
