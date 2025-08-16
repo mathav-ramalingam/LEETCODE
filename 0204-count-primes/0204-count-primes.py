@@ -1,5 +1,6 @@
 class Solution:
     def countPrimes(self, n: int) -> int:
+        ### n = 50000, Time Limit Exceeded
         # res = 0
 
         # def is_prime(val):
