@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-design-circular-deque](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0859-design-circular-deque) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0838-design-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0860-design-circular-queue) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
 ## Counting
 |  |
