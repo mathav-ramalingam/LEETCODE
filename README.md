@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0043-multiply-strings) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
 ## Quickselect
