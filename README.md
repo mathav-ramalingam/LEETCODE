@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -358,12 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0398-random-pick-index) |
 ## Counting
 |  |
 | ------- |
