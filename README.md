@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0860-design-circular-queue) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Sorting
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
@@ -468,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
