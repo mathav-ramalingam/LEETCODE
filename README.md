@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
@@ -496,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
