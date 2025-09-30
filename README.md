@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1153-product-sales-analysis-i) |
