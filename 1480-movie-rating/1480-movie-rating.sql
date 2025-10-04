@@ -4,7 +4,8 @@ FROM Users as u
 INNER JOIN MovieRating as r
 ON u.user_id = r.user_id
 GROUP BY u.user_id, u.name
-HAVING COUNT(r.movie_id) = (SELECT MAX(movie_count) FROM (SELECT COUNT(movie_id) as movie_count FROM MovieRating GROUP BY user_id) as counts)
+HAVING COUNT(r.movie_id) = 
+        (SELECT MAX(movie_count) FROM (SELECT COUNT(movie_id) as movie_count FROM MovieRating GROUP BY user_id) as counts)
 ORDER BY u.name
 LIMIT 1
 )
