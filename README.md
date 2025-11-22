@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
