@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0137-single-number-ii) |
 | [0342-power-of-four](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0342-power-of-four) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0078-subsets) |
 ## Quickselect
 |  |
 | ------- |
