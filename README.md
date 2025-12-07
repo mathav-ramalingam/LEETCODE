@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 | [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0860-design-circular-queue) |
+| [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
