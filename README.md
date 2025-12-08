@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
+| [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
+| [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Data Stream
 |  |
 | ------- |
