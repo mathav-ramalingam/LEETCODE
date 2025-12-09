@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1767-design-front-middle-back-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1767-design-front-middle-back-queue) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
