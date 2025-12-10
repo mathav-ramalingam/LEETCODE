@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1767-design-front-middle-back-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1767-design-front-middle-back-queue) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Data Stream
