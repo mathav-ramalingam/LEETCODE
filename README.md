@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1767-design-front-middle-back-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1767-design-front-middle-back-queue) |
+| [1929-concatenation-of-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0258-add-digits) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
