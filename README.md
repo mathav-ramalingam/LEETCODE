@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1656-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1767-design-front-middle-back-queue](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1767-design-front-middle-back-queue) |
 | [1929-concatenation-of-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Monotonic Stack
 |  |
 | ------- |
