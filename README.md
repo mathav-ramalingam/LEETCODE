@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
