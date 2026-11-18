@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0561-array-partition) |
 | [0817-design-hashmap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0817-design-hashmap) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
