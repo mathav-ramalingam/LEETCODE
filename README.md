@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0326-power-of-three) |
