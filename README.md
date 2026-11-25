@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
