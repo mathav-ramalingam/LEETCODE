@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1078-remove-outermost-parentheses](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mathav-ramalingam/LEETCODE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mathav-ramalingam/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
